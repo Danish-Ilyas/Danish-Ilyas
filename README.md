@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter Programming
 - 🌱 I’m currently learning and Working on Flutter as Devloper
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me danishilyasdev@gmai.com
+- 📫 How to reach me danishilyasdev@gmail.com
 
 <!---
 Danish-Ilyas/Danish-Ilyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
