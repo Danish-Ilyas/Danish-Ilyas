@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/Danish-Ilyas/Danish-Ilyas/1971b413360c744ab5185e4788e9264e7478fa10/github%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Danish Ilyas</h1>
-<h3 align="center">A passionate frontend developer from KPK Pakistan</h3>
+<h3 align="center">A passionate Flutter Developer from KPK Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB4NGgxNnhtcmh4c3V5MTQwNWo2c3N5eGJ1ZWpnZGh0d2hkbjBhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
