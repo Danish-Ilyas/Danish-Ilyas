@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Danish-Ilyas/Danish-Ilyas/1971b413360c744ab5185e4788e9264e7478fa10/github%20banner.jpg)
+![logo](https://github.com/Danish-Ilyas/Danish-Ilyas/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Danish Ilyas</h1>
 <h3 align="center">A passionate Flutter Developer from KPK Pakistan</h3>
